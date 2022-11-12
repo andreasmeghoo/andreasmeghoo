@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am second year Computer Science Student with ambitions of being a software developer.<br>I am skilled in Java, SQL and HTML and I am currently learning C#/.NET Development, PHP and CSS.
+I am second year Computer Science Student with ambitions of being a software developer.
 
 
 ## 🌐 Socials:
